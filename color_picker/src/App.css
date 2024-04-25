@@ -1,0 +1,17 @@
+.color_picker{
+  text-align: center;
+}
+
+.circle{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+.range_sty input{
+  display: block;
+  margin: auto;
+  width: 300px;
+  padding: 20px 0px;
+}
